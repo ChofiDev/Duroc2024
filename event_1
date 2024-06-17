@@ -1,0 +1,6 @@
+from os import system
+system("cls")
+
+def funcionweona(a + b):
+  variable_weona = a + b
+  return variable_weona
